@@ -1,0 +1,64 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="program5.css"?>
+<students>
+<student>
+	<name>
+	sheethal H D
+	</name>
+	<email>
+	sheethal23@gmail.com
+	</email>
+	<usn>
+	4VV15CS096
+	</usn>
+	<branch>
+	CSE
+	</branch>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+	<year>
+	2019
+	</year>
+</student>
+<student>
+	<name>
+	Bhavana
+	</name>
+	<email>
+	bhavana@gmail.com
+	</email>
+	<usn>
+	4VV16CS013
+	</usn>
+	<branch>
+	CSE
+	</branch>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+	<year>
+	2019
+	</year>
+</student>
+<student>
+	<name>
+	sneha
+	</name>
+	<email>
+	sneha@gmail.com
+	</email>
+	<usn>
+	4VV16CS012
+	</usn>
+	<branch>
+	CSE
+	</branch>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+	<year>
+	2019
+	</year>
+</student>
+</students>
